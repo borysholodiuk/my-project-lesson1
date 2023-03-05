@@ -18,3 +18,5 @@ class Student:
 # print(a2.name, a2.surname, a2.age)
 
 
+s1 = Student("Vlad", "Vladko", 5)
+s1.info()
